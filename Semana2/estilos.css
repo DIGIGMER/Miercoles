@@ -1,0 +1,23 @@
+#rojo{
+	background-color: red;
+	width: 200px; 
+	height: 200px;
+}
+#azul{
+	background-color: blue;
+	width: 200px; 
+	height: 200px;
+	display: inline-block;
+}
+h1{
+	font-family: 'Sniglet', cursive;
+}
+hr{
+	border-top-color:red;
+}
+p{
+	color: green;
+}
+span{
+	color: red
+}
