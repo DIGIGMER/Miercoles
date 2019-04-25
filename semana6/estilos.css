@@ -1,0 +1,11 @@
+.bt{
+  background-color: pink;
+  text-align: center;
+  width: 150px;
+  border: 2px solid magenta;
+  cursor: pointer;
+}
+.link{
+	color: orange;
+	text-decoration: underline;
+}
